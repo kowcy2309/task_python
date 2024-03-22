@@ -1,0 +1,17 @@
+[
+    {
+        "name":"kowsalya",
+        "age":24,
+        "course":"py,ml"
+    },
+    {
+        "name":"buvanesh",
+        "age":24,
+        "course":"py"
+    },
+    {
+        "name":"joe",
+        "age":23,
+        "course":"dotnet"
+    }
+]
